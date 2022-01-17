@@ -19,3 +19,11 @@ en javascript
 en javascript
 -tercer paso: crear funciones
 -cuarto paso: integrar js con HTML
+
+## taller #3: promedio mediana y corta
+
+- primer paso: definir las formulas
+-segundo paso: inplementar la formulas 
+en javascript
+-tercer paso: crear funciones
+-cuarto paso: integrar js con HTML
